@@ -1,0 +1,9 @@
+streamlit
+ipykernel
+transformers
+torch
+tensorflow
+accelerate
+tokenizers
+tf-keras
+sentencepiece
